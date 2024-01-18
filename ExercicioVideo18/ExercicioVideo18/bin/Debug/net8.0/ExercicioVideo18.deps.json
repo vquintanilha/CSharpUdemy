@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioVideo18/1.0.0": {
+        "runtime": {
+          "ExercicioVideo18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioVideo18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
