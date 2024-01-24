@@ -1,0 +1,15 @@
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\bin\Debug\net8.0\ExercicioVideo23.exe
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\bin\Debug\net8.0\ExercicioVideo23.deps.json
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\bin\Debug\net8.0\ExercicioVideo23.runtimeconfig.json
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\bin\Debug\net8.0\ExercicioVideo23.dll
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\bin\Debug\net8.0\ExercicioVideo23.pdb
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.AssemblyInfoInputs.cache
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.AssemblyInfo.cs
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.csproj.CoreCompileInputs.cache
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.sourcelink.json
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.dll
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\refint\ExercicioVideo23.dll
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.pdb
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ExercicioVideo23.genruntimeconfig.cache
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExercicioVideo23\ExercicioVideo23\obj\Debug\net8.0\ref\ExercicioVideo23.dll
