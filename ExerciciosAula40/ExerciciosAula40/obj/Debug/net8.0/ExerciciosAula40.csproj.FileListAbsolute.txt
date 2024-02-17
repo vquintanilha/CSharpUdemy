@@ -1,0 +1,15 @@
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\bin\Debug\net8.0\ExerciciosAula40.exe
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\bin\Debug\net8.0\ExerciciosAula40.deps.json
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\bin\Debug\net8.0\ExerciciosAula40.runtimeconfig.json
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\bin\Debug\net8.0\ExerciciosAula40.dll
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\bin\Debug\net8.0\ExerciciosAula40.pdb
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.AssemblyInfoInputs.cache
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.AssemblyInfo.cs
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.csproj.CoreCompileInputs.cache
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.sourcelink.json
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.dll
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\refint\ExerciciosAula40.dll
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.pdb
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ExerciciosAula40.genruntimeconfig.cache
+C:\Users\victor.quintanilha\Documents\Development\CSharpUdemy\ExerciciosAula40\ExerciciosAula40\obj\Debug\net8.0\ref\ExerciciosAula40.dll
